@@ -7,7 +7,7 @@ Opus 48 kbps preview MP3s for the **GTownChurchSamplingProject** sample library.
 This repo holds **48 kbps Opus previews** for fast streaming in the web DAW.
 Opus at 48k delivers near-CD quality at ~35% the size of MP3 128k.
 
-- **Files**: 950 Opus previews
+- **Files**: 1000 Opus previews
 - **Bitrate**: 48 kbps VBR
 - **Container**: Ogg Opus (.opus)
 - **Source**: [`zulfikarbarbora-outl/GTownChurchSamplingProject`](https://github.com/zulfikarbarbora-outl/GTownChurchSamplingProject)
